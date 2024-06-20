@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "bites=0": { "model": "kfc:block/kfc_block" },
+    "bites=1": { "model": "kfc:block/kfc_block" },
+    "bites=2": { "model": "kfc:block/kfc_block" },
+    "bites=3": { "model": "kfc:block/kfc_block" },
+    "bites=4": { "model": "kfc:block/kfc_block" },
+    "bites=5": { "model": "kfc:block/kfc_block" },
+    "bites=6": { "model": "kfc:block/kfc_block" }
+  }
+}

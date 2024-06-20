@@ -1,0 +1,14 @@
+{
+  "itemGroup.kfc": "KFC",
+  "item.kfc.spices": "Специи",
+  "item.kfc.raw_chicken_with_spices": "Сырая курица со специями",
+  "item.kfc.fried_chicken": "Жареная курица",
+  "item.kfc.kfc_bucket": "Ведро KFC",
+  "item.kfc.kfc_block": "Блок KFC",
+  "item.kfc.kfc_sign": "Знак KFC",
+  "item.kfc.soda_machine": "Автомат с газировкой",
+  "block.kfc.kfc_bucket": "Ведро KFC",
+  "block.kfc.kfc_block": "Блок KFC",
+  "block.kfc.kfc_sign": "Знак KFC",
+  "block.kfc.soda_machine": "Автомат с газировкой"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "kfc:raw_chicken_with_spices"
+  },
+  "result": "kfc:fried_chicken",
+  "experience": 0.35,
+  "cookingtime": 200
+}

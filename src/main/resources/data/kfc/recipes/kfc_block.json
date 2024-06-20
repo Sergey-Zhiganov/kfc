@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kfc:fried_chicken"
+    },
+    {
+      "item": "kfc:fried_chicken"
+    },
+    {
+      "item": "kfc:fried_chicken"
+    },
+    {
+      "item": "kfc:fried_chicken"
+    },
+    {
+      "item": "kfc:fried_chicken"
+    },
+    {
+      "item": "kfc:fried_chicken"
+    },
+    {
+      "item": "kfc:fried_chicken"
+    },
+    {
+      "item": "kfc:fried_chicken"
+    },
+    {
+      "item": "kfc:fried_chicken"
+    }
+  ],
+  "result": {
+    "item": "kfc:kfc_block",
+    "count": 1
+  }
+}

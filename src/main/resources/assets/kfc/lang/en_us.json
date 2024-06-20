@@ -1,0 +1,14 @@
+{
+  "itemGroup.KFC": "KFC",
+  "item.kfc.spices": "Spices",
+  "item.kfc.raw_chicken_with_spices": "Raw Chicken with Spices",
+  "item.kfc.fried_chicken": "Fried Chicken",
+  "item.kfc.kfc_bucket": "KFC Bucket",
+  "item.kfc.kfc_block": "KFC Block",
+  "item.kfc.kfc_sign": "KFC Sign",
+  "item.kfc.soda_machine": "Soda Machine",
+  "block.kfc.kfc_bucket": "KFC Bucket",
+  "block.kfc.kfc_block": "KFC Block",
+  "block.kfc.kfc_sign": "KFC Sign",
+  "block.kfc.soda_machine": "Soda Machine"
+}

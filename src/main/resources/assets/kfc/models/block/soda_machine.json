@@ -1,0 +1,10 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "kfc:block/soda_machine1",
+    "front": "kfc:block/soda_machine0",
+    "side": "kfc:block/soda_machine1",
+    "left": "kfc:block/soda_machine1",
+    "right": "kfc:block/soda_machine1"
+  }
+}
